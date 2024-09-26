@@ -4,7 +4,7 @@
   "description": "Demo for setting up Swagger, CustomExceptionFilter with FastifyReply, uploading files to S3 and Web3 Storage, and resolving ES Module issues in NestJS",
   "author": "ChroII0",
   "private": false,
-  "license": "MIT License",
+  "license": "MIT",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
