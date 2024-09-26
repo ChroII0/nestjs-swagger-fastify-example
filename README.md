@@ -26,7 +26,7 @@
 
 ## Description
 
-A simple NestJS backend demo repository showcasing how to set up Swagger with Fastify, upload files to AWS S3 and Web3 Storage, and fix the ES Module `require()` issue in a NestJS application.
+A simple NestJS backend demo repository showcasing how to set up Swagger with Fastify, upload images to AWS S3 and Web3 Storage, and fix the ES Module `require()` issue in a NestJS application.
 
 ## Installation
 
